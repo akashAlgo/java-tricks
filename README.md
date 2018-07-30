@@ -1,2 +1,2 @@
-# java-tricks
+# Java Tricks
 Some tricks with Java
